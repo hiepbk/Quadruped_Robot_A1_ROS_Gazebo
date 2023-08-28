@@ -1,3 +1,8 @@
 # Quadruped_Robot_A1_ROS_Gazebo
-PRIVATE PROJECT -> PLEASE CONTACT ME TO DISCUSS hiepbk.97@gmail.com
+
+Click here to watch video:
+(https://www.youtube.com/watch?v=VelXoNkHVsM&ab_channel=AnhHiepHoang)
+![](./result.gif)
+
 PRIVATE PROJECT -> PLEASE CONTACT ME TO DISCUSS
+
